@@ -6217,3 +6217,12 @@ icons:
       - fa
     categories:
       - Brand Icons
+
+  - name:       Byte Text Logo
+    id:         btext
+    unicode:    f2b5
+    created:    4.7
+    aliases:
+      - b-awesome
+    categories:
+      - Brand Icons
